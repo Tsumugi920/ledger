@@ -1,0 +1,16 @@
+{
+  "name": "ledger",
+  "version": "1.0.0",
+  "description": "ledger 记账本：Node + Express 后端与原生 HTML/CSS/JS 前端的完整记账应用",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "license": "MIT"
+}
